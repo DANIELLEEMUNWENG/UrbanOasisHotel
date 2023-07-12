@@ -137,7 +137,7 @@ if(isset($_POST['send'])){
       <div class="swiper-wrapper">
 
          <div class="box swiper-slide">
-            <img src="images/home-img-1.jpg" alt="">
+            <img src="https://www.furnotel.co.uk/wp-content/uploads/2019/07/bespoke-hotel-bedrooms.jpg" alt="">
             <div class="flex">
                <h3>luxurious rooms</h3>
                <a href="#availability" class="btn">check availability</a>
@@ -145,18 +145,18 @@ if(isset($_POST['send'])){
          </div>
 
          <div class="box swiper-slide">
-            <img src="images/home-img-2.jpg" alt="">
+            <img src="https://images.pexels.com/photos/2507010/pexels-photo-2507010.jpeg?cs=srgb&dl=pexels-quark-studio-2507010.jpg&fm=jpg" alt="">
             <div class="flex">
-               <h3>foods and drinks</h3>
+               <h3>Our luxurious Lobby</h3>
                <a href="#reservation" class="btn">make a reservation</a>
             </div>
          </div>
 
          <div class="box swiper-slide">
-            <img src="images/home-img-3.jpg" alt="">
+            <img src="https://e0.pxfuel.com/wallpapers/164/748/desktop-wallpaper-caesars-palace-hotel-in-las-vegas.jpg" alt="">
             <div class="flex">
-               <h3>luxurious halls</h3>
-               <a href="#contact" class="btn">contact us</a>
+               <h3>Our luxurious Hotel</h3>
+               <a href="#reviews" class="btn">contact us</a>
             </div>
          </div>
 
@@ -178,15 +178,15 @@ if(isset($_POST['send'])){
    <form action="" method="post">
       <div class="flex">
          <div class="box">
-            <p>check in <span>*</span></p>
+            <p>Check In <span>*</span></p>
             <input type="date" name="check_in" class="input" required>
          </div>
          <div class="box">
-            <p>check out <span>*</span></p>
+            <p>Check Out <span>*</span></p>
             <input type="date" name="check_out" class="input" required>
          </div>
          <div class="box">
-            <p>adults <span>*</span></p>
+            <p>Adults <span>*</span></p>
             <select name="adults" class="input" required>
                <option value="1">1 adult</option>
                <option value="2">2 adults</option>
@@ -197,7 +197,7 @@ if(isset($_POST['send'])){
             </select>
          </div>
          <div class="box">
-            <p>childs <span>*</span></p>
+            <p>Childs <span>*</span></p>
             <select name="childs" class="input" required>
                <option value="-">0 child</option>
                <option value="1">1 child</option>
@@ -209,7 +209,7 @@ if(isset($_POST['send'])){
             </select>
          </div>
          <div class="box">
-            <p>rooms <span>*</span></p>
+            <p>Rooms <span>*</span></p>
             <select name="rooms" class="input" required>
                <option value="1">1 room</option>
                <option value="2">2 rooms</option>
@@ -237,7 +237,7 @@ if(isset($_POST['send'])){
       </div>
       <div class="content">
          <h3>best staff</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi laborum maxime eius aliquid temporibus unde?</p>
+         <p>The company itself is a very successful company. Where do you feel most of his troubles at times?</p>
          <a href="#reservation" class="btn">make a reservation</a>
       </div>
    </div>
@@ -248,18 +248,18 @@ if(isset($_POST['send'])){
       </div>
       <div class="content">
          <h3>best foods</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi laborum maxime eius aliquid temporibus unde?</p>
+         <p>The company itself is a very successful company. Where do you feel most of his troubles at times?</p>
          <a href="#contact" class="btn">contact us</a>
       </div>
    </div>
 
    <div class="row">
       <div class="image">
-         <img src="images/about-img-3.jpg" alt="">
+         <img src="https://i.pinimg.com/736x/ee/44/71/ee44717f101dac2be257e4e4cc3287e5.jpg" alt="">
       </div>
       <div class="content">
          <h3>swimming pool</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi laborum maxime eius aliquid temporibus unde?</p>
+         <p>The company itself is a very successful company. Where do you feel most of his troubles at times?</p>
          <a href="#availability" class="btn">check availability</a>
       </div>
    </div>
@@ -277,37 +277,37 @@ if(isset($_POST['send'])){
       <div class="box">
          <img src="images/icon-1.png" alt="">
          <h3>food & drinks</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
+         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-2.png" alt="">
          <h3>outdoor dining</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
+         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-3.png" alt="">
          <h3>beach view</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
+         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-4.png" alt="">
          <h3>decorations</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
+         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-5.png" alt="">
          <h3>swimming pool</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
+         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-6.png" alt="">
          <h3>resort beach</h3>
-         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero, sunt?</p>
+         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
       </div>
 
    </div>
@@ -324,19 +324,19 @@ if(isset($_POST['send'])){
       <h3>make a reservation</h3>
       <div class="flex">
          <div class="box">
-            <p>your name <span>*</span></p>
-            <input type="text" name="name" maxlength="50" required placeholder="enter your name" class="input">
+            <p>Your Name <span>*</span></p>
+            <input type="text" name="name" maxlength="50" required placeholder="Enter Your Name" class="input">
          </div>
          <div class="box">
-            <p>your email <span>*</span></p>
-            <input type="email" name="email" maxlength="50" required placeholder="enter your email" class="input">
+            <p>Your Email <span>*</span></p>
+            <input type="email" name="email" maxlength="50" required placeholder="Enter Your Email" class="input">
          </div>
          <div class="box">
-            <p>your number <span>*</span></p>
-            <input type="number" name="number" maxlength="10" min="0" max="9999999999" required placeholder="enter your number" class="input">
+            <p>Your Number <span>*</span></p>
+            <input type="number" name="number" maxlength="10" min="0" max="9999999999" required placeholder="Enter Your Number" class="input">
          </div>
          <div class="box">
-            <p>rooms <span>*</span></p>
+            <p>Rooms <span>*</span></p>
             <select name="rooms" class="input" required>
                <option value="1" selected>1 room</option>
                <option value="2">2 rooms</option>
@@ -347,15 +347,15 @@ if(isset($_POST['send'])){
             </select>
          </div>
          <div class="box">
-            <p>check in <span>*</span></p>
+            <p>Check In <span>*</span></p>
             <input type="date" name="check_in" class="input" required>
          </div>
          <div class="box">
-            <p>check out <span>*</span></p>
+            <p>Check Out <span>*</span></p>
             <input type="date" name="check_out" class="input" required>
          </div>
          <div class="box">
-            <p>adults <span>*</span></p>
+            <p>Adults <span>*</span></p>
             <select name="adults" class="input" required>
                <option value="1" selected>1 adult</option>
                <option value="2">2 adults</option>
@@ -366,7 +366,7 @@ if(isset($_POST['send'])){
             </select>
          </div>
          <div class="box">
-            <p>childs <span>*</span></p>
+            <p>Childs <span>*</span></p>
             <select name="childs" class="input" required>
                <option value="0" selected>0 child</option>
                <option value="1">1 child</option>
@@ -412,35 +412,35 @@ if(isset($_POST['send'])){
    <div class="row">
 
       <form action="" method="post">
-         <h3>send us message</h3>
-         <input type="text" name="name" required maxlength="50" placeholder="enter your name" class="box">
-         <input type="email" name="email" required maxlength="50" placeholder="enter your email" class="box">
-         <input type="number" name="number" required maxlength="10" min="0" max="9999999999" placeholder="enter your number" class="box">
-         <textarea name="message" class="box" required maxlength="1000" placeholder="enter your message" cols="30" rows="10"></textarea>
+         <h3>Send Us Message</h3>
+         <input type="text" name="name" required maxlength="50" placeholder="Enter Your Name" class="box">
+         <input type="email" name="email" required maxlength="50" placeholder="Enter Your Email" class="box">
+         <input type="number" name="number" required maxlength="10" min="0" max="9999999999" placeholder="Enter Your Number" class="box">
+         <textarea name="message" class="box" required maxlength="1000" placeholder="Enter Your Message" cols="30" rows="10"></textarea>
          <input type="submit" value="send message" name="send" class="btn">
       </form>
 
       <div class="faq">
          <h3 class="title">frequently asked questions</h3>
          <div class="box active">
-            <h3>how to cancel?</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus sunt aspernatur excepturi eos! Quibusdam, sapiente.</p>
+            <h3>How To Cancel?</h3>
+            <p>The company itself is a very successful company. They were born to receive them! For some, wise.</p>
          </div>
          <div class="box">
-            <h3>is there any vacancy?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
+            <h3>Is There Any Vacancy?</h3>
+            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
          </div>
          <div class="box">
-            <h3>what are payment methods?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
+            <h3>What Are Payment Methods?</h3>
+            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
          </div>
          <div class="box">
-            <h3>how to claim coupons codes?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
+            <h3>How To Claim Coupons Codes?</h3>
+            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
          </div>
          <div class="box">
-            <h3>what are the age requirements?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam neque quaerat mollitia ratione? Soluta!</p>
+            <h3>What Are The Age Requirements?</h3>
+            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
          </div>
       </div>
 
@@ -458,38 +458,19 @@ if(isset($_POST['send'])){
 
       <div class="swiper-wrapper">
          <div class="swiper-slide box">
-            <img src="images/pic-1.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
+            <img src="images/daniel.png" alt="">
+            <h3> Daniel Lee Mun Weng</h3>
+            <p>The company itself is a very successful company. I will explain the pleasures of the most worthy of flattery</p>
          </div>
          <div class="swiper-slide box">
-            <img src="images/pic-2.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-3.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-4.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-5.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
-         <div class="swiper-slide box">
-            <img src="images/pic-6.png" alt="">
-            <h3>john deo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates blanditiis optio dignissimos eaque aliquid explicabo.</p>
-         </div>
+            <img src="images/gambar1.jpg" alt="">
+            <h3>Azmir Bin Muda</h3>
+            <p>The company itself is a very successful company. I will explain the pleasures of the most worthy of flattery.</p>
+         </div> 
+        
       </div>
 
-      <div class="swiper-pagination"></div>
+      
    </div>
 
 </section>
