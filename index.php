@@ -233,11 +233,11 @@ if(isset($_POST['send'])){
 
    <div class="row">
       <div class="image">
-         <img src="images/about-img-1.jpg" alt="">
+         <img src="images/myfav.jpg" alt="">
       </div>
       <div class="content">
          <h3>best staff</h3>
-         <p>The company itself is a very successful company. Where do you feel most of his troubles at times?</p>
+         <p>The most hardworking and responsible staff</p>
          <a href="#reservation" class="btn">make a reservation</a>
       </div>
    </div>
@@ -248,7 +248,7 @@ if(isset($_POST['send'])){
       </div>
       <div class="content">
          <h3>best foods</h3>
-         <p>The company itself is a very successful company. Where do you feel most of his troubles at times?</p>
+         <p>5 stars food review from critics are here for you to taste and enjoy</p>
          <a href="#contact" class="btn">contact us</a>
       </div>
    </div>
@@ -259,7 +259,7 @@ if(isset($_POST['send'])){
       </div>
       <div class="content">
          <h3>swimming pool</h3>
-         <p>The company itself is a very successful company. Where do you feel most of his troubles at times?</p>
+         <p>Biggest swimming pool in the city! Hurry up and enjoy our services </p>
          <a href="#availability" class="btn">check availability</a>
       </div>
    </div>
@@ -277,19 +277,19 @@ if(isset($_POST['send'])){
       <div class="box">
          <img src="images/icon-1.png" alt="">
          <h3>food & drinks</h3>
-         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
+         <p>Amazing foods and drinks are here for you to enjoy</p>
       </div>
 
       <div class="box">
          <img src="images/icon-2.png" alt="">
          <h3>outdoor dining</h3>
-         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
+         <p>It is has very dining exeprience . Free to join us</p>
       </div>
 
       <div class="box">
          <img src="images/icon-3.png" alt="">
          <h3>beach view</h3>
-         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
+         <p>What a Wonderful View. Free to join us?</p>
       </div>
 
       <div class="box">
@@ -301,13 +301,13 @@ if(isset($_POST['send'])){
       <div class="box">
          <img src="images/icon-5.png" alt="">
          <h3>swimming pool</h3>
-         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
+         <p>It is only largest swimming pool in the world?</p>
       </div>
 
       <div class="box">
          <img src="images/icon-6.png" alt="">
          <h3>resort beach</h3>
-         <p>It is very important for the customer to pay attention to the adipiscing process. Free, are they?</p>
+         <p>It high class resort beach for you to enjoy</p>
       </div>
 
    </div>
@@ -424,23 +424,23 @@ if(isset($_POST['send'])){
          <h3 class="title">frequently asked questions</h3>
          <div class="box active">
             <h3>How To Cancel?</h3>
-            <p>The company itself is a very successful company. They were born to receive them! For some, wise.</p>
+            <p>Feel free to contact our customer service.</p>
          </div>
          <div class="box">
             <h3>Is There Any Vacancy?</h3>
-            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
+            <p>Feel free to check at the checking availablity</p>
          </div>
          <div class="box">
             <h3>What Are Payment Methods?</h3>
-            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
+            <p>We only receive Debit or Credit as our only payment</p>
          </div>
          <div class="box">
             <h3>How To Claim Coupons Codes?</h3>
-            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
+            <p>Feel free to join our loyalty program to receive coupon</p>
          </div>
          <div class="box">
             <h3>What Are The Age Requirements?</h3>
-            <p>It is very important for the customer to pay attention to the adipiscing process. Does she not herself seek flexibility in reason? Untied!</p>
+            <p>There is no age limit at our wonderful hotel</p>
          </div>
       </div>
 
@@ -460,12 +460,12 @@ if(isset($_POST['send'])){
          <div class="swiper-slide box">
             <img src="images/daniel.png" alt="">
             <h3> Daniel Lee Mun Weng</h3>
-            <p>The company itself is a very successful company. I will explain the pleasures of the most worthy of flattery</p>
+            <p>The company itself is a very successful company build by him</p>
          </div>
          <div class="swiper-slide box">
             <img src="images/gambar1.jpg" alt="">
             <h3>Azmir Bin Muda</h3>
-            <p>The company itself is a very successful company. I will explain the pleasures of the most worthy of flattery.</p>
+            <p>The company itself is a very successful company and a CEO of this company</p>
          </div> 
         
       </div>
