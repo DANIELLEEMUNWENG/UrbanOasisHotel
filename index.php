@@ -139,7 +139,7 @@ if(isset($_POST['send'])){
          <div class="box swiper-slide">
             <img src="https://www.furnotel.co.uk/wp-content/uploads/2019/07/bespoke-hotel-bedrooms.jpg" alt="">
             <div class="flex">
-               <h3>luxurious rooms</h3>
+               <h3>Urban rooms</h3>
                <a href="#availability" class="btn">check availability</a>
             </div>
          </div>
@@ -147,7 +147,7 @@ if(isset($_POST['send'])){
          <div class="box swiper-slide">
             <img src="https://images.pexels.com/photos/2507010/pexels-photo-2507010.jpeg?cs=srgb&dl=pexels-quark-studio-2507010.jpg&fm=jpg" alt="">
             <div class="flex">
-               <h3>Our luxurious Lobby</h3>
+               <h3>Our Urban Lobby</h3>
                <a href="#reservation" class="btn">make a reservation</a>
             </div>
          </div>
@@ -155,7 +155,7 @@ if(isset($_POST['send'])){
          <div class="box swiper-slide">
             <img src="https://e0.pxfuel.com/wallpapers/164/748/desktop-wallpaper-caesars-palace-hotel-in-las-vegas.jpg" alt="">
             <div class="flex">
-               <h3>Our luxurious Hotel</h3>
+               <h3>Our Urban Hotel</h3>
                <a href="#reviews" class="btn">contact us</a>
             </div>
          </div>
